@@ -4,6 +4,10 @@ Adding an screenshot or a mockup of your application in action would be nicek.
 
 [This is a small example of what the layout may be when completed.]<img width="1659" height="927" alt="image" src="https://github.com/user-attachments/assets/7bc97900-31ea-439b-9ca0-8beb9b7f0b08" />
 
+# Viewing Project Presentation!
+-- Download the powerpoint presentation file from this Github repository.
+-- Open the .pptx file you just downloaded in Powerpoint to view.
+
 # How to run
 Provide here instructions on how to use your application.   
 - Download the latest binary from the Release section on the right on GitHub.  
